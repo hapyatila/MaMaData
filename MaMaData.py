@@ -25,7 +25,7 @@ try:
     data = pd.read_csv(csv_path)
     
     # Charger les coordonnées des villes
-    villes_path = os.path.join(current_dir, "Indicateurs-villes.csv")
+    villes_path = os.path.join(current_dir, "Indicateurs-Villes.csv")
     villes_df = pd.read_csv(villes_path)
     
     # Fusionner les données avec les coordonnées
