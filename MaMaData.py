@@ -7,8 +7,8 @@ import datetime
 import numpy
 
 # Configuration du style
-css_file = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "MaMaStyle.css")
-print(f"Chemin du fichier CSS : {css_file}")
+# css_file = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "MaMaStyle.css")
+# print(f"Chemin du fichier CSS : {css_file}")
 
 #value = 10
 
