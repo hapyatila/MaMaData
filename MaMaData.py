@@ -253,4 +253,4 @@ with tgb.Page() as page:
 if __name__ == "__main__":
     gui = Gui(page=page)
     gui.css_file = css_file
-    gui.run(title="MaMaMa - Analyse des données", port=5001, debug=True)
+    gui.run(title="MaMaMa - Analyse des données", port=8000, debug=True)
